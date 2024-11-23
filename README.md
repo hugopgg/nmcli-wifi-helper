@@ -13,8 +13,6 @@ A Bash utility to connect to Wi-Fi networks directly from the command line using
 
 ## Usage
 
-Usage:
-
 Make the script executable:
 
 ```
